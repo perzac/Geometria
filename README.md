@@ -1,0 +1,2 @@
+# Geometria
+Opiskeluaikainen harjoitustyö
