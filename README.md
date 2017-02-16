@@ -1,4 +1,8 @@
-#### Geometria
+### Geometria
+
+Tämä repositorio sisältää opiskeluaikaisen harjoitustyöni lähdetiedostot sekä muut tarvittavat tiedostot. Makefilen olen tehnyt myöhemmin. Alla työn kuvaus.
+
+#####Kuvaus
 
 Tässä työssä olen toteuttanut joukko-opin perusrelaatioineen
 ja -operaatioineen. Tämän sovelluksena olen tehnyt ohjelman,
