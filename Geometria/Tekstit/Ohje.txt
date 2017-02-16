@@ -1,0 +1,65 @@
+
+"PISTE nimi1 nimi2 ... nimin"
+        Lisää geometriaan n pistettä annetuilla nimillä.
+
+"SUORA nimi1 nimi2 ... nimin"
+        Lisää geometriaan n suoraa annetuilla nimillä.
+
+"PISTEET"
+        Näyttää geometrian pisteiden joukon.
+
+"SUORAT"
+        Näyttää geometrian suorien joukon.
+
+"POISTA PISTE nimi1 ... nimin"
+        Poistaa geometriasta annetut pisteet.
+
+"POISTA SUORA nimi1 ... nimin"
+        Poistaa geometriasta annetut suorat.
+
+"I MATRIISI"
+        Näyttää geometrian insidenssimatriisin rivit
+pisteinä ja sarakkeet suorina.
+
+"I TAULUKKO"
+        Näyttää geometrian insidenssirelaation taulukkona
+rivit pisteinä ja sarakkeet suorina.
+
+"I TAULUKKO_T"
+        Näyttää geometrian insidenssirelaation
+transponoituna taulukkona rivit suorina ja sarakkeet
+pisteinä.
+
+"I SUORAT pisteen nimi"
+        Näyttää annetun pisteen insidenssit.
+
+"I PISTEET suoran nimi"
+        Näyttää annetun suoran insidenssit.
+
+"I ASETA"
+        Asetetaan insidenssit taulukossa.
+                '0': ei relaatiota,
+                'muu merkki': relaatio.
+
+"I ASETA PISTE nimi"
+        Asetetaan annetun pisteen insidenssit.
+
+"I ASETA SUORA nimi"
+        Asetetaan annetun suoran insidenssit.
+
+"ANALYSOI"
+        Kertoo geometrian ominaisuudet.
+
+"AKSIOOMAT"
+        Näyttää affiinin ja projektiivisen geometrian
+aksioomat.
+
+"OHJE"
+        Näyttää tämän ohjeen.
+
+"ESITTELY"
+        Näyttää ohjelman esittelyn.
+
+"LOPETA"
+        Lopettaa ohjelman.
+
