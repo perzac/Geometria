@@ -1,0 +1,34 @@
+
+Geometrian aksiooma
+
+        (GEO0)Jokaista kahta pistettä kohti on olemassa
+              suora, joka on insidentti molempien pisteiden
+              kanssa.
+
+Projektiivisen geometrian aksioomat
+
+        (AP1) Jokaista kahta pistettä kohti on olemassa
+              yksikäsitteinen suora, joka on insidentti
+              molempien pisteiden kanssa.
+
+        (P2)  Jokaista kahta suoraa kohti on olemassa
+              yksikäsitteinen piste, joka on insidentti
+              molempien suorien kanssa.
+
+        (P3)  On olemassa neljä pistettä, joista mitkään
+              kolme eivät ole insidenttejä saman suoran
+              kanssa.
+
+Affiinin geometrian aksioomat
+
+        (AP1) Ks. ylempää
+
+        (A2)  Jokaista epäinsidenttiä piste-suora -paria
+              (P, s) kohti on olemassa yksikäsitteinen
+              suora, joka on insidentti pisteen P kanssa
+              mutta jonka kanssa insidentit pisteet ovat
+              kaikki epäinsidenttejä suoran s kanssa.
+
+        (A3)  On olemassa kolme pistettä, jotka eivät ole
+              insidenttejä saman suoran kanssa.
+

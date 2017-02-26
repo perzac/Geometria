@@ -1,0 +1,24 @@
+
+        Tervetuloa luomaan äärellistä geometriaa!
+
+Geometria on kolmikko (P, S, I), missä P ja S ovat erillisiä
+joukkoja ja I on niiden välinen relaatio eli karteesisen
+tulon PxS osajoukko. Joukon P alkioita sanotaan pisteiksi ja
+joukon S alkioita suoriksi. Relaatiota I kutsutaan
+_insidenssirelaatioksi_, ja siihen kuuluvaa piste-suora
+-paria insidentiksi. Tällöin voidaan myös sanoa pisteen P
+olevan insidentti suoras s kanssa ja päinvastoin.
+
+Tämä ohjelma luo äärellisen geometrian, jota voidaan muokata
+lisäämällä ja poistamalla siihen ja siitä pisteitä ja suoria
+sekä määrittämällä insidenssirelaation sisällön. Ohjelman
+alussa kaikki kolmikon joukot ovat tyhjiä. Lisäksi ohjelma
+tarkastaa, mitkä affiinin ja projektiivisen geometrian
+aksioomat toteutuvat.
+
+
+Ohjeen saa esille komennolla "OHJE".
+Tämän esittelyn saa esille komennolla "ESITTELY".
+tarkastettavat aksioomat saa esille komannolla "AKSIOOMAT".
+Ohjelma loppuu komennolla "LOPETA".
+
