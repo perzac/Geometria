@@ -1,6 +1,6 @@
 ### Geometria
 
-Tämä repositorio sisältää opiskeluaikaisen harjoitustyöni lähdetiedostot sekä muut tarvittavat tiedostot. Makefilen olen tehnyt myöhemmin. Alla työn kuvaus.
+Tämä repositorio sisältää opiskeluaikaisen harjoitustyöni lähdetiedostot sekä muut tarvittavat tiedostot. Makefilet olen tehnyt myöhemmin. Hakemisto `Geometria` sisältää työn sellaisena, ettei se tarvitse kuin tämän hakemiston. Hakemisto `geometria` sisältää työn jäsenneltynä, ja siellä oleva `makefile` sijoittaa tiedostot mukavasti kotihakemiston alihakemistoihin.  Alla työn kuvaus.
 
 #####Kuvaus
 
